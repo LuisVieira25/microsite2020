@@ -1,0 +1,5 @@
+<footer>
+    <p class="attribution">
+      Coded by <a href="#">Nome do Aluno</a>.
+    </p>
+  </footer>
